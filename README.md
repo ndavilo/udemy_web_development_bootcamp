@@ -1,5 +1,5 @@
 # udemy_web_development_bootcamp
-Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps
+Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps by Dr. Angela Yu
 
 Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
 Front-End Web Development
