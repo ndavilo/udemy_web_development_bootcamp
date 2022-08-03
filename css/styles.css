@@ -1,5 +1,8 @@
 body{
     background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    overflow: scroll;
   }
 hr{
     border-style: dotted none none;
