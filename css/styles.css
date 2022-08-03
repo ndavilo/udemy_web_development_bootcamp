@@ -3,15 +3,19 @@ body{
     margin-left: 50px;
     margin-right: 50px;
     overflow: scroll;
+    font-family: 'Courier New', Courier, serif;
   }
 hr{
+    border-color: #A3DA8D;
     border-style: dotted none none;
     border-width: 5px;
-    border-color: #A3DA8D;
     width: 80%
 }
 img{
+    border-radius: 50%;
     height: 150px;
     width: 150px;
-    border-radius: 50%;
+}
+a{
+    text-decoration: none;
 }
