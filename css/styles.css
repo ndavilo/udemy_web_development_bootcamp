@@ -3,7 +3,8 @@ body{
     margin-left: 50px;
     margin-right: 50px;
     overflow: scroll;
-    font-family: 'Courier New', Courier, serif;
+    font-family: 'Times New Roman', serif;
+    font-size: 12;
   }
 hr{
     border-color: #A3DA8D;
@@ -18,4 +19,7 @@ img{
 }
 a{
     text-decoration: none;
+}
+h1{
+    font-size: 16;
 }
