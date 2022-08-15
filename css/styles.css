@@ -1,16 +1,21 @@
+html{
+    background: #d2d2d2;
+}
 body{
     background-color: white;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin: 3% 8% 3% 8%;
+    padding: 4%;
     overflow: scroll;
     font-family: 'Times New Roman', serif;
     font-size: 12;
-  }
-hr{
+    text-align: justify;
+}
+
+.main-hr{
     border-color: #A3DA8D;
     border-style: dotted none none;
     border-width: 5px;
-    width: 80%
+    width: 90%
 }
 img{
     border-radius: 50%;
@@ -20,6 +25,11 @@ img{
 a{
     text-decoration: none;
 }
-h1{
+.name{
     font-size: 16;
+    text-transform: uppercase;
+}
+.sub-heading{
+    color: rgb(42, 42, 197);
+    text-transform: uppercase;
 }
